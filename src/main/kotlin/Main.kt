@@ -1,5 +1,6 @@
 package hk.edu.hkbu.comp.comp4107.playground
 
+import hk.edu.hkbu.comp.comp4107.playground.DanielCheng.SelfIntro
 import hk.edu.hkbu.comp.comp4107.playground.kennycheng.SelfIntro
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
